@@ -1,10 +1,10 @@
-# Project: Exploring data of job position
+# Project: Exploring data / Job Positions data set 
 
-This project has the goal to create: 
+This project has the goal to implement: 
 * PostgreSQL Database,
 * Data modeling (ERD),
 * Data Engineering (import CSV files)
-* Data analysis
+* Data analysis to undertand the data
 
 
 ## Data Modeling
