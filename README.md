@@ -14,7 +14,7 @@ Two of them, Dept_Emp and Dept_Manager, can be considered as bridge tables.
 
 This is the ERD created:
 
-![GitHub Logo](/ERD/ Entity Relationship Diagram.jpg.jpg)
+![GitHub Logo](/ERD/ERD.png)
 
 ## Data Engineering
 After ERD created, a script with create table and drop table were generated to be applied in the PostgreSQL server. These scripts you can find in ‘ScriptDB’ folder as soon as many other queries and statements generated, which you can see in the ‘QueryDB.sql’ in the same ‘ScriptDB’ folder. 
@@ -46,7 +46,7 @@ Moreover, to install sqlalchemy and psycopg2 to run in your Jupyter notebook, th
 
 ## Acknowledgments
 
-*Modeling ERD with visual Paradigm,
+*Modeling Entity Relationship Diagram (ERD) with visual Paradigm,
 *Langues: Python and SQL
 
 Libraries:
