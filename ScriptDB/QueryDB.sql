@@ -27,6 +27,7 @@ inner join departments dp
 on dm.dept_no = dp.dept_no
 inner join employees em
 on em.emp_no = dm.emp_no;
+
 -- List the department of each employee with the following information: 
 --employee number, last name, first name, and department name.
 select em.emp_no,
@@ -37,11 +38,13 @@ join dept_emp dep
 on dp.dept_no = dep.dept_no
 join employees em
 on em.emp_no = dep.emp_no;
+
 -- List all employees whose first name is "Hercules" and last names begin with "B."
 select *
 from employees em
 where em.first_name = 'Hercules'
 and em.last_name like 'B%';
+
 -- List all employees in the Sales department, including their employee number, last name, first name, and department name.
 select dp.dept_name,
 	   dp.dept_no,
@@ -54,6 +57,7 @@ on dem.dept_no = dp.dept_no
 inner join employees em
 on em.emp_no = dem.emp_no
 where dp.dept_name = 'Sales';
+
 -- List all employees in the Sales and Development departments, 
 --including their employee number, last name, first name, and department name.
 
