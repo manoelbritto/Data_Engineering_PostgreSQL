@@ -1,10 +1,10 @@
 # Project: Exploring data of job position
 
 This project has the goal to create: 
-*PostgreSQL Database,
-*Data modeling (ERD),
-*Data Engineering (import CSV files)
-*Data analysis
+* PostgreSQL Database,
+* Data modeling (ERD),
+* Data Engineering (import CSV files)
+* Data analysis
 
 
 ## Data Modeling
@@ -24,15 +24,11 @@ The CSV data contents were imported using pgAdmin. The content files can be foun
 ## Data Analysis
 Inside of ‘Analysis’ folder, there is a jupyter notebook(.ipynb) file that has an analysis using a bar chart to show the average salaries per job position.
 
-
-
 ### Prerequisites
 
 To run this project, you should have a PostgreSQL server installed in your machine, if you don’t have to go to this link https://www.postgresql.org/download/ and installed it.
 
 And a Jupyter notebook https://www.anaconda.com/distribution/.
-
-
 
 ### Installing
 
@@ -46,11 +42,11 @@ Moreover, to install sqlalchemy and psycopg2 to run in your Jupyter notebook, th
 
 ## Acknowledgments
 
-*Modeling Entity Relationship Diagram (ERD) with visual Paradigm,
-*Langues: Python and SQL
+* Modeling Entity Relationship Diagram (ERD) with visual Paradigm,
+* Langues: Python and SQL
 
 Libraries:
-*Pandas, 
-*sqlalchemy
-*psycopg2 
-*matplotlib
+* Pandas, 
+* sqlalchemy
+* psycopg2 
+* matplotlib
