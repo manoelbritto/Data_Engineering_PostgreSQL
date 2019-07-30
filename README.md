@@ -24,6 +24,9 @@ The CSV data contents were imported using pgAdmin. The content files can be foun
 ## Data Analysis
 Inside of ‘Analysis’ folder, there is a jupyter notebook(.ipynb) file that has an analysis using a bar chart to show the average salaries per job position.
 
+![GitHub Logo](/Analysis/Plot/bar_chart_average.png)
+
+
 ### Prerequisites
 
 To run this project, you should have a PostgreSQL server installed in your machine, if you don’t have to go to this link https://www.postgresql.org/download/ and installed it.
