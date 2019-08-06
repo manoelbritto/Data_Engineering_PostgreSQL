@@ -28,7 +28,7 @@ Inside of ‘Analysis’ folder, there is a jupyter notebook(.ipynb) file that h
 
 ### SQL query
 
-Besides, I created a folder 'ScriptDB' which has a file called QueryDB.sql. Whith this queries, I could have a better overview about the data.
+Besides, I created a folder 'ScriptDB' which has a file called QueryDB.sql. With these queries, I could have a better overview about the data.
 
 ### Prerequisites
 
