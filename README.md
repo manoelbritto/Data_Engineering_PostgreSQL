@@ -4,7 +4,7 @@ This project implemented:
 * PostgreSQL Database,
 * Data modeling (ERD),
 * Data Engineering (import CSV files)
-* Data analysis to understand the data
+* Queries (SQL) to understand the data
 
 
 ## Data Modeling
