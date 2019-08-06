@@ -1,4 +1,4 @@
-# Project: Exploring data / Job Positions data set 
+# Project: Job Positions data set 
 
 This project implemented: 
 * PostgreSQL Database,
