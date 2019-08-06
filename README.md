@@ -43,7 +43,7 @@ Moreover, to install sqlalchemy and psycopg2 to run in your Jupyter notebook, th
 
 
 
-## Acknowledgments
+## Features
 
 * Modeling Entity Relationship Diagram (ERD) with visual Paradigm,
 * Langues: Python and SQL
