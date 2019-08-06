@@ -26,6 +26,9 @@ Inside of ‘Analysis’ folder, there is a jupyter notebook(.ipynb) file that h
 
 ![GitHub Logo](/Analysis/Plot/bar_chart_average.png)
 
+### SQL query
+
+Besides, I created a folder 'ScriptDB' which has a file called QueryDB.sql. Whith this queries, I could have a better overview about the data.
 
 ### Prerequisites
 
