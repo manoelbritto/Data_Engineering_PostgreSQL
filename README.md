@@ -33,14 +33,13 @@ To run this project, you should have a PostgreSQL server installed in your machi
 
 And a Jupyter notebook https://www.anaconda.com/distribution/.
 
-### Installing
+### Install
 
-Moreover, to install sqlalchemy and psycopg2 to run in your Jupyter notebook, then use these prompt commands:
+To install sqlalchemy and psycopg2 to run in your Jupyter notebook, you have to use these prompt commands:
 
 *conda install -c anaconda sqlalchemy
 *conda install -c anaconda sqlite
 *pip install psycopg2
-
 
 
 ## Features
